@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/Library/batik-all-1.13.jar"/>
+	<classpathentry kind="lib" path="src/Library/bcpkix-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="src/Library/bcprov-jdk15on-1.68.jar"/>
+	<classpathentry kind="lib" path="src/Library/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="src/Library/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="src/Library/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="src/Library/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="src/Library/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="src/Library/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="src/Library/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="src/Library/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="src/Library/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="src/Library/fontbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="src/Library/graphics2d-0.30.jar"/>
+	<classpathentry kind="lib" path="src/Library/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="src/Library/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="src/Library/pdfbox-2.0.22.jar"/>
+	<classpathentry kind="lib" path="src/Library/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="src/Library/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="src/Library/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="src/Library/xmlgraphics-commons-2.4.jar"/>
+	<classpathentry kind="lib" path="src/Library/xmlsec-2.2.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,11 @@
+
+
+Framework structure:--
+--------------------
+
+TestScript --- save java class
+Testcase --- Testng --tcs
+TestData--- Excel file data
+Library--- save all jars
+Drivers -- exe -- chrome/ff/ie
+screen --- 
